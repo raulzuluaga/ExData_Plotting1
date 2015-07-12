@@ -1,3 +1,6 @@
+<b>IMPORTANT: In order to reproduce the code you must configure in each file a working directory (step 1) containing the UNZIPPED file named household_power_consumption.txt</b>:
+
+
 ## Introduction
 
 This assignment uses data from
